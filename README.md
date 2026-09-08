@@ -1,4 +1,4 @@
-# 👥 Sistema de Gestión de Recursos Humanos (CRUD)
+# Sistema de Gestión de Recursos Humanos (CRUD)
 
 Aplicación Full Stack orientada a la gestión y administración de empleados/recursos humanos. Permite realizar las operaciones fundamentales de un CRUD (Crear, Leer, Actualizar y Eliminar) conectando un cliente dinámico en React con un backend en Spring Boot.
 
